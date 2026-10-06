@@ -43,3 +43,6 @@ customer support ticket classification and provide AI-powered assistance.
 
 The Gemini API key is stored securely using Google Colab Secrets
 and is not included in the source code.
+## Demo
+
+![Customer Support AI Demo](Screenshot%202026-10-06%20113905.png)
